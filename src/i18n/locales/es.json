@@ -1,0 +1,93 @@
+{
+  "app": {
+    "name": "MyHospiOps",
+    "description": "Sistema de Gestión de Hospicio"
+  },
+  "navigation": {
+    "dashboard": "Tablero",
+    "patients": "Pacientes",
+    "employees": "Empleados",
+    "deliveries": "Entregas",
+    "pickups": "Recogidas",
+    "routesheet": "Hoja de Ruta",
+    "earnings": "Ganancias",
+    "reports": "Informes",
+    "payroll": "Nómina",
+    "inventory": "Inventario",
+    "financial": "Financiero",
+    "settings": "Configuración",
+    "profile": "Perfil",
+    "logout": "Cerrar Sesión"
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "sendMagicLink": "Enviar Enlace Mágico",
+    "checkEmail": "Revisa tu correo electrónico para el enlace de inicio de sesión",
+    "loggingIn": "Iniciando sesión...",
+    "unauthorized": "Acceso No Autorizado",
+    "unauthorizedMessage": "No tienes permiso para acceder a esta página."
+  },
+  "dashboard": {
+    "welcome": "Bienvenido",
+    "totalPatients": "Total de Pacientes",
+    "activePatients": "Pacientes Activos",
+    "scheduledVisits": "Visitas Programadas",
+    "pendingDeliveries": "Entregas Pendientes",
+    "monthlyRevenue": "Ingresos Mensuales",
+    "monthlyExpenses": "Gastos Mensuales",
+    "employeeCount": "Empleados",
+    "recentActivity": "Actividad Reciente",
+    "quickActions": "Acciones Rápidas",
+    "viewAll": "Ver Todo"
+  },
+  "patients": {
+    "title": "Pacientes",
+    "addPatient": "Agregar Paciente",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "dateOfBirth": "Fecha de Nacimiento",
+    "admissionDate": "Fecha de Admisión",
+    "status": "Estado",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "emergencyContact": "Contacto de Emergencia",
+    "active": "Activo",
+    "discharged": "Dado de Alta",
+    "deceased": "Fallecido"
+  },
+  "employees": {
+    "title": "Empleados",
+    "addEmployee": "Agregar Empleado",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo Electrónico",
+    "phone": "Teléfono",
+    "position": "Posición",
+    "status": "Estado",
+    "active": "Activo",
+    "inactive": "Inactivo"
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "view": "Ver",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "loading": "Cargando...",
+    "noData": "No hay datos disponibles",
+    "error": "Ocurrió un error",
+    "success": "Éxito",
+    "confirm": "Confirmar",
+    "yes": "Sí",
+    "no": "No",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "submit": "Enviar",
+    "close": "Cerrar"
+  }
+}

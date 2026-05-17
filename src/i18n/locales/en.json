@@ -1,0 +1,93 @@
+{
+  "app": {
+    "name": "MyHospiOps",
+    "description": "Hospice Management System"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "patients": "Patients",
+    "employees": "Employees",
+    "deliveries": "Deliveries",
+    "pickups": "Pickups",
+    "routesheet": "Routesheet",
+    "earnings": "Earnings",
+    "reports": "Reports",
+    "payroll": "Payroll",
+    "inventory": "Inventory",
+    "financial": "Financial",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "sendMagicLink": "Send Magic Link",
+    "checkEmail": "Check your email for the login link",
+    "loggingIn": "Logging in...",
+    "unauthorized": "Unauthorized Access",
+    "unauthorizedMessage": "You don't have permission to access this page."
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "totalPatients": "Total Patients",
+    "activePatients": "Active Patients",
+    "scheduledVisits": "Scheduled Visits",
+    "pendingDeliveries": "Pending Deliveries",
+    "monthlyRevenue": "Monthly Revenue",
+    "monthlyExpenses": "Monthly Expenses",
+    "employeeCount": "Employees",
+    "recentActivity": "Recent Activity",
+    "quickActions": "Quick Actions",
+    "viewAll": "View All"
+  },
+  "patients": {
+    "title": "Patients",
+    "addPatient": "Add Patient",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "dateOfBirth": "Date of Birth",
+    "admissionDate": "Admission Date",
+    "status": "Status",
+    "address": "Address",
+    "phone": "Phone",
+    "emergencyContact": "Emergency Contact",
+    "active": "Active",
+    "discharged": "Discharged",
+    "deceased": "Deceased"
+  },
+  "employees": {
+    "title": "Employees",
+    "addEmployee": "Add Employee",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "position": "Position",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "search": "Search",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "noData": "No data available",
+    "error": "An error occurred",
+    "success": "Success",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "close": "Close"
+  }
+}
